@@ -22,7 +22,7 @@ If you need a new Azure subscription, then there are a couple of options to get 
 ## Create the LUIS resource in Azure:
 
 1. Go to the [Azure Portal](https://portal.azure.com) and log in with your credentials.
-1. Click **Create Resource [+]**  from the left menu and search for **Language Understanding**.
+1. Click **Create Resource [+]**  fr om the left menu and search for **Language Understanding**.
 1. **Select** the first result and then click the **Create** button.
 <p align="center">
 <img src="images/AzurePortalLanguageUnderstanding-CreateResource.JPG" width="500"/>
